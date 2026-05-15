@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+body {
+  background-color: gray;
+  color: azure;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1 {
+  color: bisque;
+  background-color: rgb(107, 107, 107);
+}
+
+p {
+  color: coral;
+  font-style: oblique;
+}
+
+a {
+  color: whitesmoke;
+}

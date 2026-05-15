@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-top: 20px;
+}
+
+div {
+  border-radius: 15px;
+  margin-left: 10px;
+  box-shadow: gray;
+  align-content: center;
+  transition: all 0.2s ease-in;
+  width: 200px;
+  height: 200px;
+  box-shadow: 5px 5px 5px gray;
+}
+
+div:hover {
+  border-radius: 15px;
+  margin-left: 10px;
+  box-shadow: gray;
+  align-content: center;
+  transition: all 0.2s ease-out;
+  width: 210px;
+  height: 210px;
+}
+
+#primeira {
+  background-color: lightcyan;
+  border: 1px black solid;
+  text-align: center;
+}
+
+#primeira:hover {
+  background-color: red;
+  border: 1.5px black solid;
+  text-align: center;
+}
+
+#segunda {
+  background-color: lightcyan;
+  border: 1px black solid;
+  text-align: center;
+}
+
+#segunda:hover {
+  background-color: rgb(0, 255, 21);
+  border: 1px black solid;
+  text-align: center;
+}
+
+#terceira {
+  background-color: lightcyan;
+  border: 1px black solid;
+  text-align: center;
+}
+
+#terceira:hover {
+  background-color: rgb(0, 68, 255);
+  border: 1px black solid;
+  text-align: center;
+}

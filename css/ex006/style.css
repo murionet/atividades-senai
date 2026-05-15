@@ -1,0 +1,21 @@
+body {
+
+background-color:bisque;
+}
+
+div {
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    align-content: center;
+    border: 15px black solid;
+    border-radius: 50px;
+    font-size: 80px;
+}
+
+h1 {
+    margin-bottom: 35px;
+    background-color: blueviolet;
+    ;
+}
